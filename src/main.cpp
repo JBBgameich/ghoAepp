@@ -26,6 +26,7 @@
 #include <QQuickWindow>
 
 #include "GHOApp.h"
+#include "config.h"
 
 
 int main(int argc, char *argv[])

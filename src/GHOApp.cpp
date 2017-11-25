@@ -18,6 +18,7 @@
  */
 
 #include "GHOApp.h"
+#include "config.h"
 
 #include <QDebug>
 #include <QUrl>
